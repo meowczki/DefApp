@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Defibrylator 2.0</string>
+    <string name="elektrody_ok">Elekt ok</string>
+    <string name="_110">110</string>
+    <string name="aparat_w_czony">O/I</string>
+    <string name="artefakty">Artefakty</string>
+    <string name="ekg">EKG</string>
+    <string name="elektrody_nie_ok">Elek NIE</string>
+    <string name="niewskazana">Niewsk Defi</string>
+    <string name="b_d">Błąd</string>
+    <string name="defi_brak">Defi brak</string>
+    <string name="defi_ok">Defi OK</string>
+    <string name="wskazana">Wsk Defi</string>
+    <string name="aparat_wlaczony">aparat włączony</string>
+    <string name="blad">blad</string>
+    <string name="defi_braki">defi brak</string>
+    <string name="defi_oki">defi ok</string>
+    <string name="wskazanai">wskazana</string>
+</resources>
